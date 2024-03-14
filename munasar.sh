@@ -1,6 +1,7 @@
 #!/bin/bash
-pkg install figley -y
+
+termux-setup-storage
 
 apt update -y
 
-echo "You are done muxsin"
+echo "Kalita tijaabo ay aheyd @Muxsin"
